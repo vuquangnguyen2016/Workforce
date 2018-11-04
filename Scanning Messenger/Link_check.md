@@ -96,7 +96,8 @@
 |K2014  |Tran Thi Kim Yen           |               |                                   |100006954197482    |
 |K2014  |Le Tan Luc                 |               |                                   |100003837519208    |
 |K2014  |Au Duy Tan                 |               |                                   |100004466073425    |
+|K2014  |Nguyen Thu Thuy            |0358651635     |                                   |100007005908519    |
 
 ***
-##### [twitter](https://twitter.com/vuqnguyen2016) - [Linkedin](https://vn.linkedin.com/in/vuquangnguyen2016/) - [Youtube](https://www.youtube.com/channel/UCiL_KPDXYNx0IXU4r4iLIoQ) - [Facebook](https://www.facebook.com/vuquangnguyen2018a) - [Gmail](vuquangnguyen2016@gmail.com)  - Contact with us:  01208611883
+##### [twitter](https://twitter.com/vuqnguyen2016) - [Linkedin](https://vn.linkedin.com/in/vuquangnguyen2016/) - [Youtube](https://www.youtube.com/channel/UCiL_KPDXYNx0IXU4r4iLIoQ) - [Facebook](https://www.facebook.com/vuquangnguyen.b) - [Gmail](vuquangnguyen2016@gmail.com)  - Contact with us:  0708611883
 #### Vu Quang Nguyen Corp &#169;2018 
