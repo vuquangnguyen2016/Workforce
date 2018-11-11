@@ -1,5 +1,8 @@
-
 # Thu Vien Tong hop
+
+<!-- https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien -->
+<!-- https://github.com/vuquangnguyen2016/Webpage/wiki/Thu-vien/_edit -->
+<!-- https://drive.google.com/drive/u/0/folders/1RBE9CtaFYegCJBFkYM5ez42JO_byCCUR -->
 |STT|TEN SACH|Tac gia|DOWNLOAD|
 |:--:|:--:|:--:|:--:|
 |1|Great Writing                |Keith S Folse  - Sach Tieng Anh                            |[Get](https://drive.google.com/open?id=1oj6sEAO6FFoKid7vBXhf1xTTFDpaVoMI)|
@@ -11,9 +14,42 @@
 |7|An Toan Buc xa - Lieu luong  |Chau Van Tao     - Sach Vat li                             |[Get](https://drive.google.com/open?id=1IAPo3Fxa8K0g7cQbjBrSQ2ljQIIoz5HA)|
 |8|Cac phuong phap kich hat nhan nguyen tu  |Huynh Truc Phuong     - Sach Vat li            |[Get](https://drive.google.com/open?id=1OII0BxB2pPHSXNDxN39S1U4aUJ1ES2B8)|
 |9|Vat li phong xa              |Truong Thi Hong Loan     - Sach Vat li                     |[Get](https://drive.google.com/open?id=1aQdScSjPF6z2WdncxE8DGG7SfMdG6AQ3)|
-
-
-
+|10|Thuc tap chuyen de 1 - 2018          |Bo Mon VLHN    - Sach Vat li                      |[Get](https://drive.google.com/open?id=181KP_nt7yu2Ijf20uE6LA5IvzTEWoC2c)|
+|11|How Successful People Think          |John C. Maxwell    - Sach Tam li                  |[Get](https://drive.google.com/open?id=192u58V6ScFjtla7_BxSnm8EiD2B0zYwg)|
+|11|How to Talk to Anyone - 92 Little Tricks for Big Success in Relationships          |Leil Lowndes    - Sach Tam li                   |[Get](https://drive.google.com/open?id=1c_45BUvPlC_4tFVsMXpM13buBtRji7OF)|
+|12|Never Eat Alone: And Other Secrets to Success, One Relationship at a Time          |Keith Ferrazzi    - Sach Tam li                 |[Get](https://drive.google.com/open?id=1tN3WqRT3uZ3FuoqA0cCZFy5SUSIvstY5)|
+|13|Lonely Planet - Celebrate Autumn            |Lonely Planet    - Sach Du lich                                                        |[Get](https://drive.google.com/open?id=1Bwjol0_bX3LFtYm48lfEfs1hQcqjIc9U)|
+|14|Rich Dad's Conspiracy of The rich           |Robert T. Kiyosaki - Sach Tam li                                                       |[Get](https://drive.google.com/open?id=1WeavjloOnRaIaDJo_QSoAAwAuOY8HMi6)|
+|15|Rich Dad and Poor Dad                       |Robert T. Kiyosaki - Sach Tam li                                                        |[Get](https://drive.google.com/open?id=1pzAYYyGlI_GXvh8oRO9pnvnjvU52dsTV)|
+|16|Think and Grow Rich                         |Napoleon Hill - Sach Tam li                                                             |[Get](https://drive.google.com/open?id=13qlyPONNRW7fpWQ3dX1IoGM8eA8KTLQA)|
+|17|The 80/20 Principle The Secret of Achieving More with Less                        |Richard Koch - Sach Tam li                         |[Get](https://drive.google.com/open?id=1d2y0fX71bxwlsdo4ELGCjR7mhtZ16ULY)|
+|18|Good Morning, Holy Spirit                       |Benny Hinn - Sach Tam li                                                             |[Get](https://drive.google.com/open?id=1sqjj3Cxbnzy6g-mv3gTMzwqHwuZWT1Mz)|
+|19|Lonely Planet China (Travel Guide)              |Lonely Planet - Sach Du lich                                                         |[Get](https://drive.google.com/open?id=1Zi-G5azSPAOUB_6jUi-kQ6hnKFw-mJVR)|
+|20|Lonely Planet Vietnam (Travel Guide)              |Lonely Planet - Sach Du lich                                                       |[Get](https://drive.google.com/open?id=1pk2vMO9jx_yMcURd31hRyRqqkZff9pAE)|
+|21|Lonely Planet Viet Nam (Ha Noi - HCMC)          |Lonely Planet - Sach Du lich                                                         |[Get](https://drive.google.com/open?id=1NQrrzth5e-3wYb_1G2QzpybJrxOl7GZ7)|
+|22|Phrasal Verbs in use - 1st and Keys          |Michael McCarthy and Felicity ODell - Sach Tieng anh                                    |[Get](https://drive.google.com/open?id=1d-o41HzRgiX63wMtCz-dOZ4rjLF0UAQ9)|
+|21|Advanced English Phrasal Verbs in Use - 1st and Keys          |Michael McCarthy and Felicity ODell - Sach Tieng anh                   |[Get](https://drive.google.com/open?id=15s1Cbwr4cMpYNUB3aexXJJO8IPMJPFGm)|
+|23|Lessons for IELTS Advanced Writing Student Book               |  Sach Tieng anh                                                       |[Get](https://drive.google.com/open?id=16m8icAV7jxWdI3pd7_Z74yDUDqRviQ1h)|
+|24|Lessons for IELTS -  Writing Student Book                     |  Sach Tieng anh                                                       |[Get](https://drive.google.com/open?id=1WNYnL3qjtDms6oc7pokWo8IaoWi-eJmE)|
+|25|Longman - Advanced Learners' Grammar                          | Mark Foley and Diane Hall - Sach Tieng anh                            |[Get](https://drive.google.com/open?id=1pGtG89lGomPkPy5Bs3UhioA_qq1YjJ2V)|
+|26|Con Duong Theo Bac                        |  Hoang Quoc Viet  - Sach Chinh tri                          |[Get](https://drive.google.com/open?id=1AXbo9tBvl053gT4gr0CBMc1mSLplpEOB)|
+|27|Phong trao Dong Khoi - 50 nam nhin lai                      | (Nxb.CTQG-2010)   - Sach Chinh tri                          |[Get](https://drive.google.com/open?id=1qVRtgOi395C9_cC4e6j52XZuqTJx7LZ4)|
+|28|Tieu su Nguyen Van Cu                                       | (Nxb.CTQG-2010)   - Sach Chinh tri                          |[Get](https://drive.google.com/open?id=1ZscVKoYaqfTFKHSoQr4OOHdyQttKKrLv)|
+|29|Tu Tuong Dao Duc Phong Cach Ho Chi Minh                   | (Nxb.CTQG-2010)   - Sach Chinh tri                          |[Get](https://drive.google.com/open?id=17ItXm20kYiKtGN_0aZ7Af_MtgXo_Wjhz)|
+|30|Ho Chi Minh toan tap                                      | (Nxb.CTQG-2010)   - Sach Chinh tri                          |[Get](https://drive.google.com/open?id=1Vg_2g3ZevOI2vvBDBxkiKWzGusl3brU_)|
+|31|Tu Nhan dan ma ra                                         | Vo Nguyen Giap    - Sach Chinh tri                          |[Get](https://drive.google.com/open?id=173UI-JHP708Olf2Pe6hBHf33IR4rz6OW)|
+|32|Oxford Guide To English Gammar                            | John Eastwood     - Sach Tieng Anh                         |[Get](https://drive.google.com/open?id=1C8seLp2ET0r1rSrG9Ia8tiPzdKLpGiK2)|
+|33|Longman Essay Activator                            |Longman   - Sach Tieng Anh                         |[Get](https://drive.google.com/open?id=19dqhQd-fVzrCgI-PkMcjzMfDmoEYF46Q)|
+|34|Academic Writing - from Paragraph to essay          |Dorothy E Zemach - Lisa A Rumisek    - Sach Tieng Anh                         |[Get](https://drive.google.com/open?id=1zcA0r9TVWHM1Lx-i9aWYnU9ovpObqvfW)|
+|35|Oxford Learner's Pocket Word Skills Wordlist          |Oxford  - Sach Tieng Anh                         |[Get](https://drive.google.com/open?id=1riY0zquqDa_0QsU799OiSXPnMpYdvfJ9)|
+|36|College Essay Writing Skills with Readings         |John Langan    - Sach Tieng Anh                         |[Get](https://drive.google.com/open?id=1-CSOnttnNEWTHvPGPlTDgE6dbYKGXBqm)|
+|37|Phrasal Verbs and Idoms - Upper-Intermediate      |Graham Workman   - Sach Tieng Anh                        |[Get](https://drive.google.com/open?id=1wXbrxtB9AtOG0wgSFWvnzPeJUy0hCZeI)|
+|38|Thanh Ngu Viet Anh      |  Sach Tieng Anh                        |[Get](https://drive.google.com/open?id=19rSSGNzzkprJ7uegqxRb83OQGU9doZ--)|
+|39|Ngu Phap tieng anh      |  Sach Tieng Anh                        |[Get](https://drive.google.com/open?id=19i0x9OUCQW0wFpU_lEet6kUygjff9IkV)|
+|40|Hanh Phuc mong va thuc     |  Thich Nhat Hanh - Sach Tam li                        |[Get](https://drive.google.com/open?id=1Eu27AleldOxkH6bKbsvuuYVvHULOzXur)|
+|41|The Power of Positive Thinking    | Norman Vincent Peale   - Sach Tam li                        |[Get](https://drive.google.com/open?id=1ezpdAHr1XdZgaOtGbM6zXw1iT1mBUWIl)|
+<!-- |21|Phrasal Verbs in use - 1st and Keys          |Michael McCarthy and Felicity ODell - Sach Tieng anh                                                       |[Get]()| -->
+ 
 
 
 
@@ -39,6 +75,11 @@
 |11|PHÂN BỐ PHÓNG XẠ THEO ĐỘ SÂU TRONG ĐẤT SỬ DỤNG HỆ PHỔ KẾ GAMMA – HPGe |Nguyễn QUang Đạo|2018|[Getlink](https://drive.google.com/open?id=1a1fAB0IYQ41HlEzZBkDLE1n4nZj_ZGmd)|
 |12|NGHIÊN CỨU ẢNH HƯỞNG  CỦA LƯỢNG NƯỚC TRONG ĐẤT  VÀ KÍCH THƯỚC HẠT ĐẤT LÊN HỆ SỐ PHÁT RADON |Trân Thị Kim Yến |2018|[Getlink](https://drive.google.com/open?id=1LYh4bRaXSuPMUXXf3seEWmfmocFfKIIm)|
 |13|XÁC ĐỊNH HÀM LƯỢNG 210Po (210Pb) TRONG MẪU NƯỚC GIẾNG  TẠI QUẬN THỦ ĐỨC, TP.HCM|Nguyễn Anh Bằng |2018|[Getlink](https://drive.google.com/open?id=1WMD2rnZTKZEhmP8KoakCn8IBfi4loxo2)|
+
+# Luan Van Thac si - VLHN 
+|STT|TEN SACH|Tac gia|Nam|DOWNLOAD|
+|:--:|:--:|:--:|:--:|:--:|
+|1|Xac dinh mat do chat long bang phuong phap gamma tan xa va truyen qua |Vo Thach Trung Kien|2016|[Getlink](https://drive.google.com/open?id=14hjs3ll5Nl1Z-L63Sax2xjDQPUprvnzu)|
 
 # LUAN VAN TIEN SI - VLHN
 |STT|TEN SACH|Tac gia|Nam|DOWNLOAD|
