@@ -190,3 +190,22 @@ plt.legend()
 
 ![png](output_4_2.png)
 
+
+
+```python
+# Predict and Compare
+# mu =  -0.037328    + 0.192176 .rho 
+from sympy import *
+x = Symbol('x')
+mu_predict = 0.152983
+rho_predict=solve( - mu_predict -0.037328    + 0.192176*x, x)
+rho_predict
+# Vay gia tri mat do cua CocaCola =   0.990295354258596 (g/cm3)
+```
+
+
+
+
+    [0.990295354258596]
+
+
