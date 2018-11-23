@@ -240,7 +240,7 @@ plt.savefig('Result_figure.png',dpi=300)
     
 
 
-![png](output_4_1.png)
+![png](Result_figure.png)
 
 
 
